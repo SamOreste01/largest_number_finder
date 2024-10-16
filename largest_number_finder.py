@@ -6,6 +6,8 @@ num4 = int(input("Please Enter the Fourth Number: "))
 num5 = int(input("Please Enter the Fifth Number: "))
 
 #Comparing num1 to other variables
+if num1 > num2 and num1 > num3 and num1 > num4 and num1 > num5:
+    print(f"The Largest Number: {num1}")
 #Comparing num2 to other variables
 #Comparing num3 to other variables
 #Comparing num4 to other variables
