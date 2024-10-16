@@ -15,4 +15,6 @@ if num2 > num1 and num2 > num3 and num2 > num4 and num2 > num5:
 if num3 > num1 and num3 > num2 and num3 > num4 and num3 > num5:
     print(f"The Largest Number: {num3}")
 #Comparing num4 to other variables
+if num4 > num1 and num4> num2 and num4 > num3 and num4 > num5:
+    print(f"The Largest Number: {num4}")
 #Comparing num5 to other variables
